@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkWithRefactoring.Common", "WorkWithRefactoring.Common\WorkWithRefactoring.Common.csproj", "{9D5656D3-38B2-4157-A665-45E5B7BCEBA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkWithRefactoring.TestConsole", "WorkWithRefactoring.TestConsole\WorkWithRefactoring.TestConsole.csproj", "{4538CA2A-1069-4C34-86F4-827E43C5F463}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D5656D3-38B2-4157-A665-45E5B7BCEBA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D5656D3-38B2-4157-A665-45E5B7BCEBA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D5656D3-38B2-4157-A665-45E5B7BCEBA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D5656D3-38B2-4157-A665-45E5B7BCEBA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4538CA2A-1069-4C34-86F4-827E43C5F463}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4538CA2A-1069-4C34-86F4-827E43C5F463}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4538CA2A-1069-4C34-86F4-827E43C5F463}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4538CA2A-1069-4C34-86F4-827E43C5F463}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3C75377-2B8D-4CC0-8A1F-B5ECFE021A1E}
+	EndGlobalSection
+EndGlobal
